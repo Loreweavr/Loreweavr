@@ -1,4 +1,4 @@
-## Hi there 👋
+See, don't look
 
 <!--
 **Loreweavr/Loreweavr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
